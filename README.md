@@ -18,7 +18,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=viraj324&show_icons=true&locale=en" alt="viraj324" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=viraj324&" alt="viraj324" /></p>
-
-
-I want to remove followers issues and reviews part form this 
-plz help me
