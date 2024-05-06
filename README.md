@@ -83,7 +83,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Viraj32&locale=en&mode=daily&theme=light&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=Viraj32&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
@@ -111,7 +111,7 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Viraj324/Viraj324/output/snake-light.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Viraj324/Viraj324/output/snake.svg" alt="Snake animation" />
 </div>
 
 ###
